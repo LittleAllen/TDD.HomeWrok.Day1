@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLayer", "HomeWork_Day1\BussinessLayer.csproj", "{A8B20364-79F4-490A-B455-01C587EBC7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLayerTests", "BussinessLayerTests\BussinessLayerTests.csproj", "{F800C099-CA8C-4019-9DA7-94F87AA1E9F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B20364-79F4-490A-B455-01C587EBC7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B20364-79F4-490A-B455-01C587EBC7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B20364-79F4-490A-B455-01C587EBC7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B20364-79F4-490A-B455-01C587EBC7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F800C099-CA8C-4019-9DA7-94F87AA1E9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F800C099-CA8C-4019-9DA7-94F87AA1E9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F800C099-CA8C-4019-9DA7-94F87AA1E9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F800C099-CA8C-4019-9DA7-94F87AA1E9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

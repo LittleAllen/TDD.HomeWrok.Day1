@@ -1,0 +1,5 @@
+D:\Project\Practice\VS2015\HomeWork_Day1\HomeWork_Day1\bin\Debug\BusinessLayer.dll
+D:\Project\Practice\VS2015\HomeWork_Day1\HomeWork_Day1\bin\Debug\BusinessLayer.pdb
+D:\Project\Practice\VS2015\HomeWork_Day1\HomeWork_Day1\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+D:\Project\Practice\VS2015\HomeWork_Day1\HomeWork_Day1\obj\Debug\BusinessLayer.dll
+D:\Project\Practice\VS2015\HomeWork_Day1\HomeWork_Day1\obj\Debug\BusinessLayer.pdb

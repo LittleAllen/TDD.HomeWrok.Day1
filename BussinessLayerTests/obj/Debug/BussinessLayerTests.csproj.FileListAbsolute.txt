@@ -1,0 +1,10 @@
+D:\Project\Practice\VS2015\HomeWork_Day1\BussinessLayerTests\bin\Debug\BussinessLayerTests.dll
+D:\Project\Practice\VS2015\HomeWork_Day1\BussinessLayerTests\bin\Debug\BussinessLayerTests.pdb
+D:\Project\Practice\VS2015\HomeWork_Day1\BussinessLayerTests\bin\Debug\BusinessLayer.dll
+D:\Project\Practice\VS2015\HomeWork_Day1\BussinessLayerTests\bin\Debug\ExpectedObjects.dll
+D:\Project\Practice\VS2015\HomeWork_Day1\BussinessLayerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Project\Practice\VS2015\HomeWork_Day1\BussinessLayerTests\bin\Debug\BusinessLayer.pdb
+D:\Project\Practice\VS2015\HomeWork_Day1\BussinessLayerTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Project\Practice\VS2015\HomeWork_Day1\BussinessLayerTests\obj\Debug\BussinessLayerTests.csprojResolveAssemblyReference.cache
+D:\Project\Practice\VS2015\HomeWork_Day1\BussinessLayerTests\obj\Debug\BussinessLayerTests.dll
+D:\Project\Practice\VS2015\HomeWork_Day1\BussinessLayerTests\obj\Debug\BussinessLayerTests.pdb
